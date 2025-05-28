@@ -1,7 +1,12 @@
 <script lang="ts">
   import { page } from "$app/stores";
 
-  const links = [
+  interface Link {
+    href: string;
+    name: string;
+  }
+
+  const links: Link[] = [
 
   ];
 
