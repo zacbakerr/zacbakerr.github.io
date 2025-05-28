@@ -5,7 +5,7 @@
 </script>
 
 <Seo
-  title="Eric Zhang – Writing"
+  title="Zac Baker – Writing"
   description="Past writing: academic papers, presentations, notes, tutorials, and technical blog posts."
 />
 
