@@ -6,9 +6,7 @@
     name: string;
   }
 
-  const links: Link[] = [
-
-  ];
+  const links: Link[] = [];
 
   let pageTitle: string | null = null;
   $: {

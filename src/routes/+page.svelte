@@ -4,7 +4,7 @@
   import Seo from "$lib/components/Seo.svelte";
 
   const featuredProjects = [
-      {
+    {
       name: "Radical Health",
       href: "https://radicalhealth.ai/",
       desc: "Founding engineer building foudnation models for cancer",
@@ -40,8 +40,7 @@
       desc: "High school",
       aside: "2020-2024",
     },
-  ]
-
+  ];
 </script>
 
 <Seo
@@ -61,15 +60,19 @@
 <div class="layout-md text-lg space-y-14">
   <div class="space-y-5">
     <p>
-      I currently work at <a class="link" href="https://radicalhealth.ai/">Radical</a>, training foundational models for cancer.
+      I currently work at <a class="link" href="https://radicalhealth.ai/"
+        >Radical</a
+      >, training foundational models for cancer.
     </p>
 
     <p>
-      I want to build an <em>autonomous world</em> for people to be able to live their most fulfilling lives.
+      I want to build an <em>autonomous world</em> for people to be able to live
+      their most fulfilling lives.
     </p>
 
     <p>
-      Towards that goal, I am a generalist and care deeply about building <em>systems</em
+      Towards that goal, I am a generalist and care deeply about building <em
+        >systems</em
       >, which will move society towards a more fulfilling future.
     </p>
   </div>
@@ -94,11 +97,8 @@
   </div>
 
   <div class="space-y-5">
-
-
     <p>Other interests: math, outdoors.</p>
   </div>
-
 </div>
 
 <style lang="postcss">
