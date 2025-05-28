@@ -8,7 +8,7 @@
       name: "Radical Health",
       href: "https://radicalhealth.ai/",
       desc: "Founding engineer building foundation models for cancer",
-      aside: "2025-Present, backed by Khosla, partnered with Mayo Clinic",
+      aside: "2025-Present, backed $5M+ Khosla, partnered with Mayo Clinic",
     },
     {
       name: "MIT CSAIL",
