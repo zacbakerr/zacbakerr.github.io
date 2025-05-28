@@ -52,7 +52,7 @@
   class="layout-md text-black text-xl leading-tight font-light mb-16"
   id="eric-is"
 >
-  <span class="g">is a</span> ML researcher<span class="g">,</span><br />
+  <span class="g">is an</span> ML researcher<span class="g">,</span><br />
   engineer<span class="g">, and</span><br />
   learner<span class="g">.</span>
 </p>
