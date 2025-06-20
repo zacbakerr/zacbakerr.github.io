@@ -20,7 +20,8 @@
       name: "Radical Health",
       href: "https://radicalhealth.ai/",
       desc: "Founding engineer building foundation models for cancer",
-      aside: "Feb 2025 - June 2025, backed $5M+ Khosla, partnered with Mayo Clinic",
+      aside:
+        "Feb 2025 - June 2025, backed $5M+ Khosla, partnered with Mayo Clinic",
     },
     {
       name: "MIT CSAIL",
@@ -72,9 +73,9 @@
 <div class="layout-md text-lg space-y-14">
   <div class="space-y-5">
     <p>
-      I'm currently building <a class="link" href="https://terac.ai/"
-        >Terac</a
-      >, automating the exchange of human thoughts through agent-driven market research.
+      I'm currently building <a class="link" href="https://terac.ai/">Terac</a>,
+      automating the exchange of human thoughts through agent-driven market
+      research.
     </p>
 
     <p>
@@ -85,7 +86,9 @@
     <p>
       Towards that goal, I am a generalist and care deeply about building <em
         >systems</em
-      >, which will move society towards a more fulfilling future. To start, I'm automating market research with the hopes of giving agents a pulse on societies wants and needs.
+      >, which will move society towards a more fulfilling future. To start, I'm
+      automating market research with the hopes of giving agents a pulse on
+      societies wants and needs.
     </p>
   </div>
 
