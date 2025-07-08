@@ -6,7 +6,7 @@
   const featuredProjects = [
     {
       name: "Terac",
-      href: "https://terac.ai/",
+      href: "https://terac.com/",
       desc: "Automating the exchange of human thoughts through agent-driven market research",
       aside: "June 2025 - Present",
     },
@@ -61,34 +61,14 @@
   description="Researcher, engineer, and doer. Making meaningful systems and interfaces for people."
 />
 
-<p
-  class="layout-md text-black text-xl leading-tight font-light mb-16"
-  id="eric-is"
->
-  <span class="g">is an</span> ML researcher<span class="g">,</span><br />
-  engineer<span class="g">, and</span><br />
-  learner<span class="g">.</span>
-</p>
-
 <div class="layout-md text-lg space-y-14">
   <div class="space-y-5">
     <p>
-      I'm currently building <a class="link" href="https://terac.ai/">Terac</a>,
-      automating the exchange of human thoughts through agent-driven market
-      research.
+      I'm currently working at <a class="link" href="https://terac.com/">Terac</a> to
+      automate customer and market research.
     </p>
-
     <p>
-      I want to build an <em>autonomous world</em> for people to be able to live
-      their most fulfilling lives.
-    </p>
-
-    <p>
-      Towards that goal, I am a generalist and care deeply about building <em
-        >systems</em
-      >, which will move society towards a more fulfilling future. To start, I'm
-      automating market research with the hopes of giving agents a pulse on
-      societies wants and needs.
+      I'm also actively investing at <a class="link" href="/bakercap">Baker Capital</a>.
     </p>
   </div>
 

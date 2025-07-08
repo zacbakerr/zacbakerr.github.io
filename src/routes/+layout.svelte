@@ -3,6 +3,7 @@
   import "../app.css";
 
   import { browser, dev } from "$app/environment";
+  import { page } from "$app/stores";
 
   import { fly } from "svelte/transition";
 
@@ -15,6 +16,8 @@
   const isMobile = browser && /Android|iPhone/i.test(navigator.userAgent);
   const reducedMotion =
     browser && matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  $: customTitle = $page.url.pathname === '/bakercap' ? 'Baker Capital' : null;
 </script>
 
 <svelte:head>
@@ -35,7 +38,7 @@
   {/if}
 </svelte:head>
 
-<Header />
+<Header {customTitle} />
 
 {#if isMobile || reducedMotion}
   <!--

@@ -5,9 +5,9 @@
     <a class="link" href="https://x.com/zacbakerr">@zacbakerr</a>
   </div>
   <div class="row">
-    <span>GitHub</span>
+    <span>LinkedIn</span>
     <hr />
-    <a class="link" href="https://github.com/zacbakerr">@zacbakerr</a>
+    <a class="link" href="https://www.linkedin.com/in/zacharyrbaker/">@zacharyrbaker</a>
   </div>
   <div class="row">
     <span>Email</span>
