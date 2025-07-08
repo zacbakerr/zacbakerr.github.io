@@ -7,7 +7,9 @@
   <div class="row">
     <span>LinkedIn</span>
     <hr />
-    <a class="link" href="https://www.linkedin.com/in/zacharyrbaker/">@zacharyrbaker</a>
+    <a class="link" href="https://www.linkedin.com/in/zacharyrbaker/"
+      >@zacharyrbaker</a
+    >
   </div>
   <div class="row">
     <span>Email</span>

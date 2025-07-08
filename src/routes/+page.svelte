@@ -64,11 +64,14 @@
 <div class="layout-md text-lg space-y-14">
   <div class="space-y-5">
     <p>
-      I'm currently working at <a class="link" href="https://terac.com/">Terac</a> to
-      automate customer and market research.
+      I'm currently working at <a class="link" href="https://terac.com/"
+        >Terac</a
+      > to automate customer and market research.
     </p>
     <p>
-      I'm also actively investing at <a class="link" href="/bakercap">Baker Capital</a>.
+      I'm also actively investing at <a class="link" href="/bakercap"
+        >Baker Capital</a
+      >.
     </p>
   </div>
 

@@ -17,7 +17,7 @@
   const reducedMotion =
     browser && matchMedia("(prefers-reduced-motion: reduce)").matches;
 
-  $: customTitle = $page.url.pathname === '/bakercap' ? 'Baker Capital' : null;
+  $: customTitle = $page.url.pathname === "/bakercap" ? "Baker Capital" : null;
 </script>
 
 <svelte:head>
